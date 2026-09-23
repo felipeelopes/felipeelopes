@@ -15,11 +15,11 @@
 
 </div>
 
-### ⚡ Arquitetura de IA & Engenharia de Sistemas em .NET
+### ⚡ AI Architecture & .NET Systems Engineering
 
-Sou **Engenheiro de IA & Arquiteto de Sistemas** com forte atuação no ecossistema **.NET (C#)** e **Python**, especializado no desenvolvimento e sustentação de **Agent Frameworks**, **Harnesses de Execução** e **Backends Distribuídos de Alta Performance**.
+I am an **AI Systems Architect & Backend Engineer** with deep expertise across the **.NET (C#)** and **Python** ecosystems, specializing in the architecture, authoring, and operation of **Agent Frameworks**, **Execution Harnesses**, and **High-Throughput Distributed Backends**.
 
-Unindo a robustez corporativa, tipagem estática e concorrência do **.NET / C#** com o ecossistema avançado de IA (Semantic Kernel, Microsoft Agent Framework, MCP e modelos de fronteira), construo runtimes determinísticos, seguros e preparados para operar sob volume e complexidade em produção.
+By combining enterprise-grade robustness, strong typing, and the high-concurrency runtime of **.NET / C#** with the frontier of AI engineering (Microsoft Agent Framework, Semantic Kernel, Model Context Protocol - MCP, and cutting-edge foundation models), I build deterministic, resilient, and production-ready runtimes engineered to operate under high complexity and scale.
 
 ```csharp
 using Microsoft.SemanticKernel;
@@ -50,7 +50,7 @@ public record AIAgentArchitect
 
 ---
 
-### 🏛️ O Ecossistema de Harness & Agentes
+### 🏛️ Enterprise Agent Harness Ecosystem
 
 ```text
  ┌────────────────────────────────────────────────────────────────────────┐
@@ -69,32 +69,32 @@ public record AIAgentArchitect
 
 ---
 
-### 🧠 Especialidades Técnicas em Destaque
+### 🧠 Core Technical Pillars
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <h4>🔬 Frameworks, .NET & Loops</h4>
       <ul>
-        <li><b>Microsoft AI Stack:</b> Domínio aprofundado de <i>Microsoft Agent Framework</i>, <i>Semantic Kernel</i> e AutoGen para .NET.</li>
-        <li><b>Loops de Execução:</b> Runtimes de raciocínio com ReAct, decomposição de planos complexos e reflexão com auto-recuperação.</li>
-        <li><b>State Machines em C#:</b> Grafos de execução com estado tipado, checkpoints duráveis e concorrência nativa.</li>
+        <li><b>Microsoft AI Stack:</b> Advanced expertise in <i>Microsoft Agent Framework</i>, <i>Semantic Kernel</i>, and AutoGen for .NET.</li>
+        <li><b>Execution Loops:</b> Autonomous reasoning runtimes featuring ReAct, hierarchical task planning, reflection, and self-healing error recovery.</li>
+        <li><b>State Machines in C#:</b> Strongly-typed execution graphs, durable checkpoints, and native asynchronous concurrency.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h4>🛡️ Guardrails & Harness Engineering</h4>
       <ul>
-        <li><b>Segurança & Guardrails:</b> Filtros semânticos pré/pós-execução, blindagem contra Prompt Injection e vazamento de PII.</li>
-        <li><b>Evaluation Harnesses:</b> Frameworks de teste automatizados para agentes, benchmarks sintéticos e suites de regressão comportamental.</li>
-        <li><b>Governância Enterprise:</b> Rate limiting, orçamento e limites de tokens, auditoria e aprovações com <i>Human-in-the-Loop (HITL)</i>.</li>
+        <li><b>Safety & Guardrails:</b> Pre/post-execution semantic filters, robust Prompt Injection defense, hallucination checks, and PII protection.</li>
+        <li><b>Evaluation Harnesses:</b> Automated agent test suites, synthetic benchmarks, and behavioral regression testing pipelines.</li>
+        <li><b>Enterprise Governance:</b> Token budgets, rate-limiting governors, audit trails, and <i>Human-in-the-Loop (HITL)</i> approval gates.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4>⚙️ Backend Distribuído & Cloud</h4>
+      <h4>⚙️ Distributed Backends & Cloud</h4>
       <ul>
-        <li><b>.NET Enterprise:</b> ASP.NET Core Web APIs, gRPC, mensageria com Apache Kafka, RabbitMQ e Azure Service Bus.</li>
-        <li><b>Protocolo MCP:</b> Servidores e clientes MCP integrados a sistemas legados e bases de dados corporativas.</li>
-        <li><b>Cloud (Azure & AWS):</b> Arquiteturas elásticas em nuvem, conteinerização com Docker e orquestração com Kubernetes.</li>
+        <li><b>Enterprise .NET:</b> ASP.NET Core Web APIs, gRPC services, and event-driven messaging via Apache Kafka, RabbitMQ, and Azure Service Bus.</li>
+        <li><b>MCP Protocol:</b> High-performance Model Context Protocol (MCP) clients & servers integrating enterprise data sources and legacy APIs.</li>
+        <li><b>Cloud (Azure & AWS):</b> Elastic cloud architecture, containerization with Docker, and orchestration with Kubernetes.</li>
       </ul>
     </td>
   </tr>
@@ -106,7 +106,7 @@ public record AIAgentArchitect
 
 <div align="center">
 
-#### .NET Core, Backend & Infraestrutura
+#### .NET Core, Backend & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/.NET_8%2F9-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
@@ -130,7 +130,7 @@ public record AIAgentArchitect
   <img src="https://img.shields.io/badge/LangGraph_/_LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 </p>
 
-#### Linguagens Complementares, Dados & Vetores
+#### Complementary Languages, Data & Vectors
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -145,7 +145,7 @@ public record AIAgentArchitect
 
 ---
 
-### 📊 Atividade & Engenharia
+### 📊 Engineering Activity & Metrics
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=felipeelopes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=E2E8F0" alt="Felipe's GitHub stats" height="165" />
@@ -154,9 +154,9 @@ public record AIAgentArchitect
 
 ---
 
-### 🤝 Conecte-se & Colabore
+### 🤝 Connect & Collaborate
 
-Vamos discutir sobre a vanguarda dos runtimes agênticos, avaliação automatizada de LLMs, arquitetura .NET para IA ou infraestrutura cloud resiliente:
+Open to discussions regarding cutting-edge agent runtimes, automated LLM evaluation harnesses, .NET enterprise AI architectures, and resilient cloud systems:
 
 <div align="center">
 
