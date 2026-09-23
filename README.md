@@ -2,7 +2,7 @@
 
 <!-- Animated Dynamic Typing Header -->
 <a href="https://github.com/felipeelopes">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=38BDF8&center=true&vcenter=true&multiline=true&width=680&height=115&lines=Felipe+Lopes+%7C+AI+Systems+%26+Framework+Architect+%F0%9F%A4%96;Designing+Next-Gen+Agent+Frameworks+%26+Runtimes+%E2%9A%99%EF%B8%8F;Pioneering+Loops%2C+Guardrails%2C+MCP+%26+Eval+Harnesses+%E2%9A%A1;Cloud-Native+Scale%3A+Azure+%7C+AWS+%7C+Distributed+Backends+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vcenter=true&multiline=true&width=860&height=120&lines=Felipe+Lopes+%7C+AI+Systems+%26+Framework+Architect+%F0%9F%A4%96;Designing+Next-Gen+Agent+Frameworks+%26+Runtimes+%E2%9A%99%EF%B8%8F;Pioneering+Loops%2C+Guardrails%2C+MCP+%26+Eval+Harnesses+%E2%9A%A1;Cloud-Native+Scale%3A+Azure+%7C+AWS+%7C+Distributed+Backends+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <p align="center">
