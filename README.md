@@ -1,151 +1,55 @@
 <div align="center">
 
-<!-- Animated Dynamic Typing Header -->
+<!-- Animated Header -->
 <a href="https://github.com/felipeelopes">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vcenter=true&multiline=true&width=860&height=120&lines=Felipe+Lopes+%7C+AI+Systems+Architect+(.NET+%26+Python)+%F0%9F%A4%96;Designing+Next-Gen+Agent+Frameworks+%26+Runtimes+%E2%9A%99%EF%B8%8F;Pioneering+Loops%2C+Guardrails%2C+MCP+%26+Eval+Harnesses+%E2%9A%A1;Enterprise+Backends%3A+.NET+8%2F9+%7C+Azure+%7C+AWS+%7C+Distributed+Scale+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Specialization-AI%20Systems%20%26%20Frameworks-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Core%20Stack-.NET%208%2F9%20%7C%20C%23%20%7C%20Python-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%26%20Agent%20Frameworks-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-.NET%208%2F9%20%7C%20C%23%20%7C%20Python-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-Microsoft%20Azure%20%7C%20AWS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
----
-
 </div>
 
-### ⚡ AI Architecture & .NET Systems Engineering
+---
 
-I am an **AI Systems Architect & Backend Engineer** with deep expertise across the **.NET (C#)** and **Python** ecosystems, specializing in the architecture, authoring, and operation of **Agent Frameworks**, **Execution Harnesses**, and **High-Throughput Distributed Backends**.
+### ⚡ About Me
 
-By combining enterprise-grade robustness, strong typing, and the high-concurrency runtime of **.NET / C#** with the frontier of AI engineering (Microsoft Agent Framework, Semantic Kernel, Model Context Protocol - MCP, and cutting-edge foundation models), I build deterministic, resilient, and production-ready runtimes engineered to operate under high complexity and scale.
+**AI Systems Architect & Backend Engineer** specializing in **Agent Frameworks**, **Execution Runtimes**, and **High-Throughput Backends**. I bridge the compiled performance of **.NET (C#)** with **Python** to build scalable, resilient distributed systems with autonomous loops, MCP integration, and enterprise guardrails.
 
-```csharp
-using Microsoft.SemanticKernel;
-using AgentFramework.Core.Harness;
-using AgentFramework.Core.Guardrails;
-
-public record AIAgentArchitect
-{
-    public string Name => "Felipe Lopes";
-    public string Role => "AI Systems Architect & .NET Backend Engineer";
-
-    public string[] CoreStack => [
-        "C# / .NET 8 & 9", "ASP.NET Core", "Microsoft Azure", "Semantic Kernel", 
-        "Microsoft Agent Framework", "Python", "MCP Runtimes", "Distributed Systems"
-    ];
-
-    public string[] ArchitectureFocus => [
-        "Autonomous Agent Loops & Deterministic State Graphs",
-        "Enterprise Guardrails, Token Governors & HITL Checkpoints",
-        "High-Throughput Distributed Backends & Event-Driven Systems (Kafka / RabbitMQ)",
-        "Scalable Agentic RAG, Memory Systems & Vector DBs"
-    ];
-
-    public string Philosophy => 
-        "Building reliable AI requires more than scripts — it demands compiled performance, strict typing, and resilient distributed architecture.";
-}
-```
+* 🤖 **Agent Frameworks & Harnesses:** Microsoft Agent Framework, Semantic Kernel, autonomous loops (ReAct, reflection), and automated evaluation harnesses.
+* 🛡️ **Safety & Tooling:** Deterministic guardrails, prompt injection defenses, and custom Model Context Protocol (MCP) clients & servers.
+* ☁️ **Enterprise Backends & Cloud:** Distributed systems and event-driven architectures with C# / .NET 8/9, ASP.NET Core, Apache Kafka, Azure, and AWS.
 
 ---
 
-### 🏛️ Enterprise Agent Harness Ecosystem
-
-```text
- ┌────────────────────────────────────────────────────────────────────────┐
- │                   ENTERPRISE AGENT HARNESS & RUNTIME                   │
- ├────────────────────────────────────────────────────────────────────────┤
- │  [Ingress & Guardrails]   ──> Semantic Filtering, PII & Injection Gate │
- │  [Execution Loops]        ──> ReAct, Plan-and-Solve, Dynamic Reflexion │
- │  [Multi-Agent Mesh]       ──> Semantic Kernel / AutoGen / State Graphs │
- │  [Context & Memory]       ──> Graph RAG, Hybrid Retrieval & Episodic   │
- │  [MCP Interoperability]   ──> Model Context Protocol (C# & Python SDK) │
- │  [Eval & Observability]   ──> Test Harness, LLM-as-Judge & OpenTelemetry│
- ├────────────────────────────────────────────────────────────────────────┤
- │         HIGH-THROUGHPUT .NET & CLOUD FOUNDATION (Azure & AWS)          │
- └────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-### 🧠 Core Technical Pillars
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🔬 Frameworks, .NET & Loops</h4>
-      <ul>
-        <li><b>Microsoft AI Stack:</b> Advanced expertise in <i>Microsoft Agent Framework</i>, <i>Semantic Kernel</i>, and AutoGen for .NET.</li>
-        <li><b>Execution Loops:</b> Autonomous reasoning runtimes featuring ReAct, hierarchical task planning, reflection, and self-healing error recovery.</li>
-        <li><b>State Machines in C#:</b> Strongly-typed execution graphs, durable checkpoints, and native asynchronous concurrency.</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🛡️ Guardrails & Harness Engineering</h4>
-      <ul>
-        <li><b>Safety & Guardrails:</b> Pre/post-execution semantic filters, robust Prompt Injection defense, hallucination checks, and PII protection.</li>
-        <li><b>Evaluation Harnesses:</b> Automated agent test suites, synthetic benchmarks, and behavioral regression testing pipelines.</li>
-        <li><b>Enterprise Governance:</b> Token budgets, rate-limiting governors, audit trails, and <i>Human-in-the-Loop (HITL)</i> approval gates.</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>⚙️ Distributed Backends & Cloud</h4>
-      <ul>
-        <li><b>Enterprise .NET:</b> ASP.NET Core Web APIs, gRPC services, and event-driven messaging via Apache Kafka, RabbitMQ, and Azure Service Bus.</li>
-        <li><b>MCP Protocol:</b> High-performance Model Context Protocol (MCP) clients & servers integrating enterprise data sources and legacy APIs.</li>
-        <li><b>Cloud (Azure & AWS):</b> Elastic cloud architecture, containerization with Docker, and orchestration with Kubernetes.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Core Stack
 
 <div align="center">
 
-#### .NET Core, Backend & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/.NET_8%2F9-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semantic_Kernel-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-6366F1?style=flat-square&logo=dependabot&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-</p>
-
-#### AI Frameworks, Runtimes & MCP
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Agent_Framework-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Semantic_Kernel_(C%23)-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-6366F1?style=flat-square&logo=dependabot&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoGen_(.NET)-00599C?style=flat-square&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agent_Eval_Harnesses-10B981?style=flat-square&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/NeMo_Guardrails-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph_/_LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-</p>
-
-#### Complementary Languages, Data & Vectors
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL_(pgvector)-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=qdrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-F5A800?style=flat-square&logo=opentelemetry&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-### 📊 Engineering Activity & Metrics
+### 📊 Activity & Metrics
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=felipeelopes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=E2E8F0" alt="Felipe's GitHub stats" height="165" />
@@ -154,9 +58,7 @@ public record AIAgentArchitect
 
 ---
 
-### 🤝 Connect & Collaborate
-
-Open to discussions regarding cutting-edge agent runtimes, automated LLM evaluation harnesses, .NET enterprise AI architectures, and resilient cloud systems:
+### 🤝 Connect
 
 <div align="center">
 
@@ -164,10 +66,4 @@ Open to discussions regarding cutting-edge agent runtimes, automated LLM evaluat
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipeelopes)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:felipe_lopes@outlook.com)
 
-</div>
-
-<br>
-
-<div align="center">
-  <sub>⚡ <i>"The ultimate bottleneck of AI isn't the model's raw intelligence — it's the harness, the guardrails, and the architecture that gives it power to act."</i></sub>
 </div>
