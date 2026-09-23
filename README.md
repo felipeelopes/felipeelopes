@@ -145,8 +145,8 @@ class AIAgentArchitect:
 ### 📊 Atividade & Engenharia
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipeelopes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=E2E8F0" alt="Felipe's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeelopes&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakNum=38BDF8" alt="Streak stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=felipeelopes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=E2E8F0" alt="Felipe's GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=felipeelopes&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakNum=38BDF8" alt="Streak stats" height="165" />
 </div>
 
 ---
